@@ -1,0 +1,5 @@
+Github Link: 
+https://github.com/Musaddik1909/Nexus-Data-Science-Internship/tree/main/Task%201
+
+Google Colab Link: 
+https://colab.research.google.com/drive/1znwNQWpZmX0upCdf2BS20qRywvjw4TZy?usp=sharing
